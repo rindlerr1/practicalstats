@@ -6,6 +6,10 @@ All functions can work with a list, an array, or the column of a dataframe
 
 """
 
+"""
+Hey Lisa
+"""
+
 def MeanAD(x):    
     import numpy as np
     x = np.array(x)
